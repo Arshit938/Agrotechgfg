@@ -3,7 +3,7 @@
 -> it helps dealers to bid online to reduce paperwork
 -> it also gives an estimated quality for crop when given certain features
 
-#how will it work
+# how will it work
 -> farmer will be given a form to fill in that form they have to upload the images of crop a video
 -> in that form they will fill the type of crop then crop name and its features for quality
 -> they will also set a base price for their crop
@@ -13,7 +13,7 @@
 -> after deal is set they can talk to each other about the transporation and stuff
 -> both farmer and dealer have to pay application charges to reduce the chances of fake profiles
 
-#technologies used in it
+# technologies used in it
 backend:
 ->django
 ->web scrapping
@@ -25,4 +25,4 @@ frontend:
 ->css
 ->java script
 
-#interface design
+# interface design
